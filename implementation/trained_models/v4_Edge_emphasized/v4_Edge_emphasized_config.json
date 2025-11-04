@@ -1,0 +1,34 @@
+{
+  "seed": 0,
+  "upload_weights": true,
+  "preload_data": true,
+  "weights_policy": "load_if_exists",
+  "weights_dir": "./trained_models",
+  "results_dir": "./results",
+  "logs_dir": "./logs",
+  "use_drive": true,
+  "drive_mount_point": "/content/drive",
+  "library_path": "/content/drive/MyDrive/OpenU/Hadar cohen - Nbel-lab/Seminar in cs 2025/exercise/CVPR-2021-W",
+  "data_filename": "caltech101_events_acc_90_120_6_var_1.hdf5",
+  "backup_root": "/content/drive/MyDrive/OpenU/Hadar cohen - Nbel-lab/Seminar in cs 2025/exercise/work in progress",
+  "experiment_name": "v4_Edge_emphasized",
+  "exp_titles": "Edge",
+  "model_name": "standard",
+  "model_kwargs": {
+    "activation": "relu",
+    "width": 3,
+    "norm_type": "none",
+    "dilation_rate": 1
+  },
+  "file_base_name": "best_model_simplet_6_fixed_model5.h5",
+  "weights_filename": "v4_Edge_emphasized_best_model.h5",
+  "loss_lambdas": {
+    "l1": 1.0,
+    "l2": 0.15,
+    "l3": 0.35
+  },
+  "num_samples": 150,
+  "lr_init": 0.0005,
+  "num_epochs": 50,
+  "batch_size": 16
+}
