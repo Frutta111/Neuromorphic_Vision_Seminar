@@ -1,39 +1,57 @@
 # Links to Original Papers
 
-This project is based on four key studies by **Cohen-Duwek and colleagues (2020–2024)**, exploring biologically plausible models of visual perception — from perceptual filling-in to stable active vision.  
+This project is based on four key studies by **Cohen-Duwek and colleagues (2020–2024)**, exploring biologically plausible computational models of visual perception from perceptual filling-in to stable active vision.  
 Below are direct links to the **original scientific papers**.
 
 ---
 
-## Paper 1 — Perceptual Filling-In (2020)
-**Reference:**  
-Cohen, H., Dinstein, I., & Malach, R. (2020). *Peripheral color filling-in and perceptual awareness.*  
-**Published in:** *Nature Communications*  
-🔗 [https://www.nature.com/articles/s41467-020-14520-9](https://www.nature.com/articles/s41467-020-14520-9)
+## Paper 1: Perceptual Filling-In (2020)
+**Paper name:** [1] Biologically Plausible Spiking Neural Networks for Perceptual Filling-In  
+**Authors:** Hadar Cohen-Duwek, Elishai Ezra Tsur  
+**Publication:** *Proceedings of the Annual Meeting of the Cognitive Science Society*, 2021  
+**Affiliation:** Neuro-Biomorphic Engineering Lab (NBEL), The Open University of Israel  
+**Summary:**  
+Introduces two spiking neural network (SNN) architectures (feedforward and recurrent) for perceptual filling-in, inspired by the isomorphic theory of visual perception.  
+**Online Paper:** [here](https://static1.squarespace.com/static/555995e2e4b0c9f3319aaa47/t/60fc0c67b6530a7c473aade8/1627131023357/eScholarship+UC+item+3gm896kr.pdf)  
+**GitHub Repository (if available):** 
 
 ---
 
-## Paper 2 — Image Reconstruction from Event Cameras (2021)
-**Reference:**  
-Cohen-Duwek, H., Tzur, M., & Bonneh, Y. (2021). *Image Reconstruction from Neuromorphic Event Cameras using Laplacian–Poisson CNN–SNN Pipeline.*  
-**Published in:** *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2021)*  
-🔗 [https://openaccess.thecvf.com/content/CVPR2021W/BNMW/html/Cohen-Duwek_Image_Reconstruction_from_Neuromorphic_Event_Cameras_Using_Laplacian-Poisson_CNN-SNN_Pipeline_CVPRW_2021_paper.html](https://openaccess.thecvf.com/content/CVPR2021W/BNMW/html/Cohen-Duwek_Image_Reconstruction_from_Neuromorphic_Event_Cameras_Using_Laplacian-Poisson_CNN-SNN_Pipeline_CVPRW_2021_paper.html)
+## Paper 2: Efficient Image Reconstruction  (2021)
+**Paper name:** [2] Image Reconstruction from Neuromorphic Event Cameras Using Laplacian  
+**Authors:** Hadar Cohen-Duwek, Elishai Ezra Tsur  
+**Publication:** *Frontiers in Neuroscience* (or specify conference when available)  
+**Affiliation:** Neuro-Biomorphic Engineering Lab (NBEL), The Open University of Israel  
+**Summary:**  
+Presents a biologically inspired model for reconstructing static images from event-based neuromorphic data. Combines Laplacian-based image estimation with spiking-inspired principles for efficient processing.  
+**Online Paper:** [here](https://static1.squarespace.com/static/555995e2e4b0c9f3319aaa47/t/60cb633bc4e6d87d64abe495/1623941954062/Duwek_Image_Reconstruction_From_Neuromorphic_Event_Cameras_Using_Laplacian-Prediction_and_Poisson_CVPRW_2021_paper.pdf)  
+**GitHub Repository (if available):** [https://github.com/NBELab/CVPR-2021-W]  
 
 ---
 
-## Paper 3 — Peripheral Colorization via Adversarial Training (2023)
-**Reference:**  
-Cohen-Duwek, H., & Bonneh, Y. (2023). *Adversarial color reconstruction of peripheral vision from limited retinal input.*  
-**Published on:** *arXiv*  
-🔗 [https://arxiv.org/abs/2303.08264](https://arxiv.org/abs/2303.08264)
+## Paper 3: Perceptual Colorization of Peripheral Vision (2023)
+**Paper name:** [3] Perceptual Colorization of the Peripheral Retinotopic Visual Field Using Adversarially Optimized Networks  
+**Authors:** Hadar Cohen-Duwek, Elishai Ezra Tsur  
+**Publication:** 2023  
+**Affiliation:** Neuro-Biomorphic Engineering Lab (NBEL), The Open University of Israel  
+**Summary:**  
+Applies GAN-based adversarial optimization to simulate human-like color perception in the periphery, demonstrating how the brain’s filling-in mechanisms can be modeled computationally.  
+**Online Paper:** [here](https://static1.squarespace.com/static/555995e2e4b0c9f3319aaa47/t/64c7c55696f4b15da97b2ef7/1690813788693/2023+Duwek+et+al+-+CogSci.pdf)  
+**GitHub Repository (if available):**
+---
+
+## Paper 4: Stable Visual Perception from Saccadic Inputs (2024)
+**Paper name:** [4] Reconstruction of Visually Stable Perception from Saccadic Retinal Inputs Using Corollary Discharge Signals  
+**Authors:** Hadar Cohen-Duwek, Elishai Ezra Tsur  
+**Publication:** 2024  
+**Affiliation:** Neuro-Biomorphic Engineering Lab (NBEL), The Open University of Israel  
+**Summary:**  
+Proposes a multi-phase ConvLSTM and GAN-based model integrating corollary discharge (CD) signals to achieve visually stable reconstruction across simulated saccades.  
+**Online Paper:** [here](https://escholarship.org/uc/item/8g15s854)  
+**GitHub Repository (if available):** [https://github.com/NBELab/SaccadicVision]  
 
 ---
 
-## Paper 4 — Stable Active Vision (2024)
-**Reference:**  
-Cohen-Duwek, H., Bonneh, Y., & Tzur, M. (2024). *Stable Active Vision via ConvLSTM and Corollary Discharge Signals.*  
-**Published on:** *arXiv*  
-🔗[https://arxiv.org/abs/2403.13879](https://arxiv.org/abs/2403.13879)
 
 
 
