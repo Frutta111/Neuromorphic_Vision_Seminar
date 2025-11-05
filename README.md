@@ -1,8 +1,8 @@
-\# From Perceptual Filling-In to Stable Active Vision  
+# From Perceptual Filling-In to Stable Active Vision  
 
 <p align="center">
 
-&nbsp; <img src="./figures/project\_overview.png" alt="Project Overview Diagram" width="600">
+&nbsp; <img src="./figures/project_overview.png" alt="Project Overview Diagram" width="600">
 
 </p>
 
@@ -113,11 +113,10 @@ If you use or reference this work, please cite:
 
 
 
-\## 🌐 External Resources
+\## External Resources
 
-\- \[📁 Dataset – N-Caltech101 Event Camera](https://github.com/NBELab/CVPR-2021-W/tree/main?tab=readme-ov-file#dataset)  
+\- \[Dataset – N-Caltech101 Event Camera](https://github.com/NBELab/CVPR-2021-W/tree/main?tab=readme-ov-file#dataset)  
 
-\- \[🧠 NBELab – Neuromorphic \& Biologically Inspired Engineering Lab](https://github.com/NBELab)  
-
+\- \[NBELab – Neuromorphic \& Biologically Inspired Engineering Lab](https://github.com/NBELab)  
 
 
