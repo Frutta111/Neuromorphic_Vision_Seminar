@@ -21,22 +21,22 @@ The repository includes:
 
  - **Full written seminar report (PDF)** summarizing four key studies (2020–2024).  [seminar_paper](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/blob/main/seminar_paper/From-perceptual-filling-in-to-stable-active-vision.pdf)
  - **Applied experiment** implementation extending *Model #5 (ConvNet5)* from *Cohen-Duwek et al., 2021*.  [implementation](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/blob/main/implementation/implementation.md)
- - **Final presentation slides** presentation slides and visual figures.  [presentation](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/blob/main/presentation/Seminar%20presentation%20-Efrat%20F%20-%202025.pdf.pdf)
--  **Reference** of the four key studies (2020–2024). [reference)](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/blob/main/references/links_to_original_papers.md)
+ - **Final presentation slides** presentation slides and visual figures.  [presentation](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/blob/main/presentation/Seminar%20presentation%20-Efrat%20F%20-%202025.pdf)
+-  **Reference** of the four key studies (2020–2024). [reference](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/blob/main/references/links_to_original_papers.md)
 
 
 ## External Resources
 
-\- \[Dataset – N-Caltech101 Event Camera](https://github.com/NBELab/CVPR-2021-W/tree/main?tab=readme-ov-file#dataset)  
+\- [Dataset – N-Caltech101 Event Camera](https://github.com/NBELab/CVPR-2021-W/tree/main?tab=readme-ov-file#dataset)  
 
-\- \[NBELab – Neuromorphic \& Biologically Inspired Engineering Lab](https://github.com/NBELab)  
+\- [NBELab – Neuromorphic \& Biologically Inspired Engineering Lab](https://github.com/NBELab)  
 
 
 ## Citation
 
 If you use or reference this work, please cite:
 
-> Friedrich, E. (2025). \*From Perceptual Filling-In to Stable Active Vision.\* Advanced Seminar in Computer Science, The Open University of Israel.  
+> Friedrich, E. (2025).  **From Perceptual Filling-In to Stable Active Vision.** Advanced Seminar in Computer Science, The Open University of Israel.  
 
 > Supervisor: Dr. Hadar Cohen-Duwek.
 
