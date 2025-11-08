@@ -1,5 +1,4 @@
-
-\## Implementation Notes
+# Implementation Notes
 
 \- The applied experiment reproduces and extends \*\*Model #5 (ConvNet5)\*\* with several architectural and loss-function variants.  
 
