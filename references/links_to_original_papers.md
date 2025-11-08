@@ -1,4 +1,4 @@
-# Links to Original Papers
+# Links to Research Papers
 
 This project is based on four key studies by **Cohen-Duwek and colleagues (2020–2024)**, exploring biologically plausible computational models of visual perception from perceptual filling-in to stable active vision.  
 Below are direct links to the **original scientific papers**.

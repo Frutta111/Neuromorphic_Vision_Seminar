@@ -21,7 +21,7 @@ The repository includes:
 
  - **Full written seminar report (PDF)** summarizing four key studies (2020–2024).  [seminar_paper](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/blob/main/seminar_paper/From-perceptual-filling-in-to-stable-active-vision.pdf)
  - **Applied experiment** implementation extending *Model #5 (ConvNet5)* from *Cohen-Duwek et al., 2021*.  [implementation](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/blob/main/implementation/implementation.md)
- - **Final presentation slides** presentation slides and visual figures.  [presentation](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/tree/main/presentation)
+ - **Final presentation slides** presentation slides and visual figures.  [presentation](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/blob/main/presentation/Seminar%20presentation%20-Efrat%20F%20-%202025.pdf)
 -  **Reference** of the four key studies (2020–2024). [reference](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/blob/main/references/links_to_original_papers.md)
 
 
