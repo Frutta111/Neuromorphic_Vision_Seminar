@@ -1,0 +1,12 @@
+
+\## Implementation Notes
+
+\- The applied experiment reproduces and extends \*\*Model #5 (ConvNet5)\*\* with several architectural and loss-function variants.  
+
+\- Results include PSNR, SSIM, and MSE comparisons across variants (e.g., ReLU, Mish, BatchNorm, Dilated Convs).  
+
+\- Training was performed using the **[N-Caltech101 Event Dataset](https://github.com/NBELab/CVPR-2021-W/tree/main?tab=readme-ov-file#dataset)**, maintaining the setup described in *Cohen-Duwek et al., 2021*.
+
+
+
+|Training scripts [Python notebooks] [https://github.com/Frutta111/Neuromorphic_Vision_Seminar/tree/main/implementation/notebooks/fine_tuning_models5_5_variants.py] |  experiment results. | Train models for each variant, including weights and configuration training
