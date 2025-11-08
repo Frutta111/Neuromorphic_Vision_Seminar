@@ -17,9 +17,9 @@ introducing several **architectural** and **loss-function** variants to test sen
 
 ## Training Scripts and Experiment Files  
 
-- Main code for training ConvNet5 variants is under [notebookes] (https://github.com/Frutta111/Neuromorphic_Vision_Seminar/tree/main/implementation/notebooks)
+- Main code for training ConvNet5 variants is under [notebookes](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/tree/main/implementation/notebooks)
 - Each variant was initialized from pretrained weights (`best_model_simplet_6_fixed_model5.h5`) from [CVPR-2021-W](https://github.com/NBELab/CVPR-2021-W/tree/main/notebooks) and fine-tuned individually.
-Model weights, configuration and visual outputs files are stored under [trained_models] (https://github.com/Frutta111/Neuromorphic_Vision_Seminar/tree/main/implementation/trained_models) with names matching the experiment (e.g., `v1_baseline_config.json`).  
+Model weights, configuration and visual outputs files are stored under [trained_models](https://github.com/Frutta111/Neuromorphic_Vision_Seminar/tree/main/implementation/trained_models) with names matching the experiment (e.g., `v1_baseline_config.json`).  
 
 > *For results and detailed model, see the seminar report (Section 6: Implementations).*
 
